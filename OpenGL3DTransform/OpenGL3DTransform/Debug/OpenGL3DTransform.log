@@ -1,0 +1,44 @@
+﻿生成启动时间为 2017/5/1 0:00:46。
+     1>项目“D:\作业，课件\计算机图形学\实验\实验四\201426020127_数媒1401_宁润_实验四\Project\OpenGL3DTransform\OpenGL3DTransform\OpenGL3DTransform.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\OpenGL3DTransform.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>c:\program files (x86)\microsoft visual studio 12.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\atlmfc\include\afx.h(33) : 参见“MBCS_Support_Deprecated_In_MFC”的声明
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\OpenGL3DTransform.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt CArcBall.cpp ChildFrm.cpp ClassView.cpp FileView.cpp MainFrm.cpp OpenGL3DTransform.cpp OpenGL3DTransformDoc.cpp OpenGL3DTransformView.cpp OutputWnd.cpp PropertiesWnd.cpp ViewTree.cpp
+         ViewTree.cpp
+         PropertiesWnd.cpp
+         OutputWnd.cpp
+         OpenGL3DTransformView.cpp
+     1>d:\作业，课件\计算机图形学\实验\实验四\201426020127_数媒1401_宁润_实验四\project\opengl3dtransform\opengl3dtransform\opengl3dtransformview.cpp(399): warning C4018: “<”: 有符号/无符号不匹配
+         OpenGL3DTransformDoc.cpp
+         OpenGL3DTransform.cpp
+         MainFrm.cpp
+         FileView.cpp
+         ClassView.cpp
+         ChildFrm.cpp
+         CArcBall.cpp
+         正在生成代码...
+     1>d:\作业，课件\计算机图形学\实验\实验四\201426020127_数媒1401_宁润_实验四\project\opengl3dtransform\opengl3dtransform\opengl3dtransformview.cpp(184): warning C4715: “COpenGL3DTransformView::OnCreate”: 不是所有的控件路径都返回值
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\OpenGL3DTransform.res" OpenGL3DTransform.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\作业，课件\计算机图形学\实验\实验四\201426020127_数媒1401_宁润_实验四\Project\OpenGL3DTransform\Debug\OpenGL3DTransform.exe" /INCREMENTAL /NOLOGO /LIBPATH:../../lib/lib_VS GLAUX.LIB /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\作业，课件\计算机图形学\实验\实验四\201426020127_数媒1401_宁润_实验四\Project\OpenGL3DTransform\Debug\OpenGL3DTransform.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\作业，课件\计算机图形学\实验\实验四\201426020127_数媒1401_宁润_实验四\Project\OpenGL3DTransform\Debug\OpenGL3DTransform.lib" /MACHINE:X86 Debug\OpenGL3DTransform.res
+         Debug\CArcBall.obj
+         Debug\ChildFrm.obj
+         Debug\ClassView.obj
+         Debug\FileView.obj
+         Debug\MainFrm.obj
+         Debug\OpenGL3DTransform.obj
+         Debug\OpenGL3DTransformDoc.obj
+         Debug\OpenGL3DTransformView.obj
+         Debug\OutputWnd.obj
+         Debug\PropertiesWnd.obj
+         Debug\stdafx.obj
+         Debug\ViewTree.obj
+         OpenGL3DTransform.vcxproj -> D:\作业，课件\计算机图形学\实验\实验四\201426020127_数媒1401_宁润_实验四\Project\OpenGL3DTransform\Debug\OpenGL3DTransform.exe
+     1>已完成生成项目“D:\作业，课件\计算机图形学\实验\实验四\201426020127_数媒1401_宁润_实验四\Project\OpenGL3DTransform\OpenGL3DTransform\OpenGL3DTransform.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:22.70
